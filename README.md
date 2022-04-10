@@ -1,8 +1,3 @@
-# DEMOWEATHER
 # WEATHER
-# WEATHER
-# WEATHER
-# WEATHER
-# WEATHER
-# WEATHER
-# WEATHER
+npm install --global expo-cli
+expo int weather
